@@ -1,1 +1,1 @@
-FROM jupyter/all-spark-notebook:latest
+FROM jupyter/all-spark-notebook:spark-3.2.0
